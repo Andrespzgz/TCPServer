@@ -1,0 +1,15 @@
+A:\Development\Net\Courses\ASP_Web_MVC\TCPReaderAsServer\TCPReaderAsServer\bin\Debug\net6.0\TCPReaderAsServer.exe
+A:\Development\Net\Courses\ASP_Web_MVC\TCPReaderAsServer\TCPReaderAsServer\bin\Debug\net6.0\TCPReaderAsServer.deps.json
+A:\Development\Net\Courses\ASP_Web_MVC\TCPReaderAsServer\TCPReaderAsServer\bin\Debug\net6.0\TCPReaderAsServer.runtimeconfig.json
+A:\Development\Net\Courses\ASP_Web_MVC\TCPReaderAsServer\TCPReaderAsServer\bin\Debug\net6.0\TCPReaderAsServer.dll
+A:\Development\Net\Courses\ASP_Web_MVC\TCPReaderAsServer\TCPReaderAsServer\bin\Debug\net6.0\TCPReaderAsServer.pdb
+A:\Development\Net\Courses\ASP_Web_MVC\TCPReaderAsServer\TCPReaderAsServer\obj\Debug\net6.0\TCPReaderAsServer.csproj.AssemblyReference.cache
+A:\Development\Net\Courses\ASP_Web_MVC\TCPReaderAsServer\TCPReaderAsServer\obj\Debug\net6.0\TCPReaderAsServer.GeneratedMSBuildEditorConfig.editorconfig
+A:\Development\Net\Courses\ASP_Web_MVC\TCPReaderAsServer\TCPReaderAsServer\obj\Debug\net6.0\TCPReaderAsServer.AssemblyInfoInputs.cache
+A:\Development\Net\Courses\ASP_Web_MVC\TCPReaderAsServer\TCPReaderAsServer\obj\Debug\net6.0\TCPReaderAsServer.AssemblyInfo.cs
+A:\Development\Net\Courses\ASP_Web_MVC\TCPReaderAsServer\TCPReaderAsServer\obj\Debug\net6.0\TCPReaderAsServer.csproj.CoreCompileInputs.cache
+A:\Development\Net\Courses\ASP_Web_MVC\TCPReaderAsServer\TCPReaderAsServer\obj\Debug\net6.0\TCPReaderAsServer.dll
+A:\Development\Net\Courses\ASP_Web_MVC\TCPReaderAsServer\TCPReaderAsServer\obj\Debug\net6.0\refint\TCPReaderAsServer.dll
+A:\Development\Net\Courses\ASP_Web_MVC\TCPReaderAsServer\TCPReaderAsServer\obj\Debug\net6.0\TCPReaderAsServer.pdb
+A:\Development\Net\Courses\ASP_Web_MVC\TCPReaderAsServer\TCPReaderAsServer\obj\Debug\net6.0\TCPReaderAsServer.genruntimeconfig.cache
+A:\Development\Net\Courses\ASP_Web_MVC\TCPReaderAsServer\TCPReaderAsServer\obj\Debug\net6.0\ref\TCPReaderAsServer.dll
